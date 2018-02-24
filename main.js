@@ -1,4 +1,6 @@
 
+/*THIS IS AN EXAMPLE OF HOW OBJECT ORIENTED PROGRAMMING CAN BE APPLIED IN JAVASCRIPT*/
+
 //Contructor function of a Vehicle object
 function Vehicle(a,b) {
     this.type = a;
